@@ -1,5 +1,3 @@
-![Screenshot 2025-04-20 163234](https://github.com/user-attachments/assets/108f15f0-2ae6-4de4-ad6d-1c26bb6efe03)# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
-
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
@@ -96,26 +94,25 @@ print('MAE = ', mae)
 rmse=np.sqrt(mse)
 
 print("RMSE = ",rmse)
-
+```
 ## Output:
-``
+```
 ![Screenshot 2025-04-20 124318](https://github.com/user-attachments/assets/747e6f48-426a-45f4-9062-ad618c0d5aa5)
 
-``
 ![Screenshot 2025-04-20 163002](https://github.com/user-attachments/assets/e827d648-1eb9-4705-ad3e-ab43393d65d1)
-``
+
 ![Screenshot 2025-04-20 163014](https://github.com/user-attachments/assets/a9983c3d-8fd4-473a-bf0f-36dfc7c4e15b)
-``
+
 ![Screenshot 2025-04-20 163056](https://github.com/user-attachments/assets/dbe3560f-5a92-4c68-a7dc-de7b0947f330)
-``
+
 ![Screenshot 2025-04-20 163123](https://github.com/user-attachments/assets/daf973e7-0784-4ae6-8b6b-f7baa4a8f2f9)
-``
+
 ![Screenshot 2025-04-20 163146](https://github.com/user-attachments/assets/73e3dfb1-bfd7-41a1-bdc4-049cfcb4db48)
-``
+
 ![Screenshot 2025-04-20 163203](https://github.com/user-attachments/assets/af907c17-fd99-4c0c-83d6-626ba582f8d9)
-``
+
 ![Screenshot 2025-04-20 163219](https://github.com/user-attachments/assets/404fc74c-b7d6-4e63-aaf1-9010f8617b7e)
-``
+
 ![Screenshot 2025-04-20 163234](https://github.com/user-attachments/assets/7d105bc1-45cf-44d1-9ebf-84b53179fe39)
 ```
 ## Result:
